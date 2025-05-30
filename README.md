@@ -7,4 +7,8 @@
 - Game controls:
 - W, A, S, D to move
 - Press X when in contact with a portal to teleport
+
+- Game objective:
+- Collect 15 coins
+- The game will exit automatically after collecting them
 ```
